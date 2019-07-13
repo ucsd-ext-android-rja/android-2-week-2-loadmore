@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetFinder</string>
+    <string name="title_activity_pets">PetsActivity</string>
+    <string name="title_fav">Favorites</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
