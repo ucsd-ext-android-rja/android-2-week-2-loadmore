@@ -1,5 +1,3 @@
-https://www.petfinder.com/developers/v2/docs/#get-animals
-
 Week 6 - Pet Finder
 ===================
 ### Paging Library:
